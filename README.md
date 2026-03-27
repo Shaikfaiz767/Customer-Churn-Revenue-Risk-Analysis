@@ -1,5 +1,3 @@
-# <img width="631" height="354" alt="Customer Churn   Revenue Risk Analysis" src="https://github.com/user-attachments/assets/f0190e09-12ac-41fe-9039-1d5f0d4e9689" />
-
 ## 📌 Overview
 
 This project analyzes customer purchase behavior to identify churn risk, revenue concentration, and business opportunities.
@@ -128,5 +126,7 @@ This project demonstrates an end-to-end data analysis workflow, combining data p
 ---
 
 ## 📷 Dashboard Preview
+
+# <img width="631" height="354" alt="Customer Churn   Revenue Risk Analysis" src="https://github.com/user-attachments/assets/f0190e09-12ac-41fe-9039-1d5f0d4e9689" />
 
 
